@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 1,
+        "name" : "Story Book",
+        "title" : "Harry Potter and the Philosopher's Stone",
+        "price" : 0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/81q77Q39nEL._SL1500_.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Comedy Book",
+        "title" : "Mrs Funnybones : She's just like You and a lot like Me",
+        "price" : 399,
+        "category" : "comedy",
+        "image" : "https://m.media-amazon.com/images/I/81RkPGyExnL._SL1500_.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Adventure Book",
+        "title" : "Treasure Island",
+        "price" : 799,
+        "category" : "adventure",
+        "image" : "https://m.media-amazon.com/images/I/710K9pWWZ+L._SL1400_.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Horror Book",
+        "title" : "Ghosts of The Silent Hills: Stories based on true hauntings",
+        "price" : 500,
+        "category" : "horror",
+        "image" : "https://m.media-amazon.com/images/I/71NUqTiGrOL._SL1000_.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Science Fiction Book",
+        "title" : "Dark Matter: The Most Mind-Blowing And Twisted Thriller Of The Year",
+        "price" : 1000,
+        "category" : "science",
+        "image" : "https://m.media-amazon.com/images/I/81kpj1VBV-S._SL1500_.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Food Book",
+        "title" : "HEAL WITH FOODS: MAGICAL INGREDIENTS THAT WILL CHANGE YOUR LIFE",
+        "price" :600,
+        "category" : "food",
+        "image" : "https://m.media-amazon.com/images/I/81BfZXZ5QIL._SL1500_.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Sports Book",
+        "title" : "The Dhoni Touch",
+        "price" :299,
+        "category" : "sports",
+        "image" : "https://m.media-amazon.com/images/I/81Fgux0XJNL._SL1500_.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Sports Book",
+        "title" : "Harry Potter and the Philosopher's Stone",
+        "price" :500,
+        "category" : "sports",
+        "image" : "https://www.bloomsbury.com/media/idyh20rp/harry-potter-and-the-philosophers-333.png?width=267&height=400"
+    },
+    {
+        "id" : 9,
+        "name" : "Music Book",
+        "title" : "NAD - Understanding Raga Music Book",
+        "price" :185,
+        "category" : "music",
+        "image" : "https://m.media-amazon.com/images/I/81bVAx4mFGL._SL1500_.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Story Book",
+        "title" : "Harry Potter and the Chamber of Secrets",
+        "price" :0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/818umIdoruL._SL1500_.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Story Book",
+        "title" : "Harry Potter and the Prisoner of Azkaban",
+        "price" :0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/81NQA1BDlnL._SL1500_.jpg"
+    },
+    {
+        "id" : 12,
+        "name" : "Drama Book",
+        "title" : "Drama Hardcover Cover - Realeased In 26 May 2021",
+        "price" :0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/81vY8SnJHRL._SL1500_.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "Productive Book",
+        "title" : "How to Train Your Mind: Exploring the Productivity Benefits of Meditation",
+        "price" :0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/81nn--iQ-SL._SL1500_.jpg"
+    },
+    {
+        "id" : 14,
+        "name" : "Productive Book",
+        "title" : "Master Your Time, Master Your , Faster, in Every Area of Your Life",
+        "price" :0,
+        "category" : "free",
+        "image" : "https://m.media-amazon.com/images/I/81hj060cstL._SL1500_.jpg"
+    }
+]

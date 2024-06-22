@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Login from './Login'
 import { useForm } from 'react-hook-form'
 
 const ContactUs = () => {
@@ -11,9 +10,9 @@ const ContactUs = () => {
       } = useForm()
       const onSubmit = (data) => console.log(data)
   return (
-    <div>
+    <div className=''>
           <div  className='flex h-screen items-center justify-center border-[2px] shadow-md   '>
-            <div className="modal-box">
+            <div className="modal-box dark:bg-slate-900 dark:text-white">
                 <form onSubmit={handleSubmit(onSubmit)} 
                 method="dialog">
                 <Link to={'/'} className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</Link>
@@ -22,7 +21,7 @@ const ContactUs = () => {
                 <div className='mt-4 space-y-2'>
                     <span>Name</span>
                     <br />
-                    <input className='w-[28rem] px-3 py-1 rounded-md outline-none border' 
+                    <input className='w-[28rem] px-3 py-1 rounded-md outline-none border dark:bg-slate-900 dark:text-white' 
                     type="text" 
                     placeholder='Enter your Full Name'
                     {...register("name", { required: true })}
@@ -35,7 +34,7 @@ const ContactUs = () => {
                 <div className='mt-4 space-y-2'>
                     <span>Email</span>
                     <br />
-                    <input className='w-[28rem] px-3 py-1 rounded-md outline-none border' 
+                    <input className='w-[28rem] px-3 py-1 rounded-md outline-none border dark:bg-slate-900 dark:text-white' 
                     type="email" 
                     placeholder='Enter your email' 
                     {...register("email", { required: true })}
@@ -49,7 +48,7 @@ const ContactUs = () => {
                     <div className='mt-4 space-y-2'>
                     <span>Message</span>
                     <br />
-                    <textarea className='border outline-none w-[28rem]' 
+                    <textarea className='border outline-none w-[28rem] dark:bg-slate-900 dark:text-white' 
                     name="message" id="message" placeholder='Enter your message'
                     {...register("message", { required: true })}></textarea>
                      <br />
